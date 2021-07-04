@@ -1,4 +1,0 @@
-com/marin/book/Application.java
- com.marin.book.Application
-com/marin/book/web/HelloController.java
- com.marin.book.web.HelloController
